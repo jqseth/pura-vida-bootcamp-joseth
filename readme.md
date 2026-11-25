@@ -48,6 +48,7 @@ Sigue estos pasos para completar tu entrega:
 
 ## Tarea 2 — Primer contrato inteligente en Stellar ♻️
 
+
 **Estudiante:** Joseth Gamboa Guzmán
 
 **Proyecto:** Envases Retornables CR
