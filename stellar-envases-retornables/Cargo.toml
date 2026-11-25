@@ -1,0 +1,23 @@
+[package]
+name = "stellar-envases-retornables"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Registro sencillo de depósitos por envases retornables en Stellar"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+soroban-sdk = "=26.1.0"
+
+[dev-dependencies]
+soroban-sdk = { version = "=26.1.0", features = ["testutils"] }
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = "symbols"
