@@ -44,4 +44,20 @@ Sigue estos pasos para completar tu entrega:
 
 **Video de guía para realizar la entrega:**  
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Tarea 2 — Primer contrato inteligente en Stellar ♻️
+
+**Estudiante:** Joseth Gamboa Guzmán
+
+**Proyecto:** Envases Retornables CR
+
+Contrato inteligente desarrollado en Rust y Soroban para registrar y gestionar depósitos por envases retornables en pequeños comercios de Costa Rica.
+
+- **Código y documentación:** [Ver proyecto](./stellar-envases-retornables)
+- **Pruebas automatizadas:** 5 ejecutadas correctamente, 0 fallidas.
+- **Rama de entrega:** `main`
+
+El README dentro de la carpeta del proyecto explica el problema, las funciones del contrato y cómo ejecutar las pruebas.
+
 
